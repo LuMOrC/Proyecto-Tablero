@@ -7,7 +7,7 @@ import json
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 # URL de tu API en Railway (REEMPLAZA CON TU URL REAL)
-API_URL = "https://prueba-api-production-21a9.up.railway.app/api/v1/predict"
+API_URL = "web-production-4362.up.railway.app"
 
 COLORS = {
     'primary': '#1e3a8a',
